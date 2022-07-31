@@ -1,9 +1,9 @@
 # practPython (исходники учебного web-сайта на Python)
 Пример web-сайта, как можно редактировать строки в таблице из базы данных MySQL с применением языка Python
 
-Главная страница web-сайта представлена далее 
+Главная страница web-сайта представлена, далее.
 
-и представляет собой список из колонок и строк для редактирования:
+Представляет собой список из колонок и строк для редактирования:
 
 ![image](https://user-images.githubusercontent.com/10297748/182027613-77cd33d7-885b-4470-846a-df76831ebc27.png)
 
@@ -23,6 +23,6 @@ Web-сайт гаранированно работает в XAMPP Version 7.4.27
   
   #! C:/Users/днс/AppData/Local/Programs/Python/Python38/python.exe
 
-После установки Python 3.0, необходимо установить mysql.connector с помощью команды: pip install mysql.connector
+После установки Python 3.8, необходимо установить mysql.connector с помощью команды: pip install mysql.connector
   
   

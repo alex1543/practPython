@@ -7,6 +7,9 @@
 
 ![image](https://user-images.githubusercontent.com/10297748/182027613-77cd33d7-885b-4470-846a-df76831ebc27.png)
 
+Для создания базы данных необходимо воспользоваться скриптом test.sql из каталога [practUpdate](https://github.com/alex1543/practUpdate)
+или программой [ExLzFmySQL](https://github.com/alex1543/ExLzFmySQL) на Lazarus.
+
 При нажатии на ячейку в строке, предлагается редактировать три параметра:
 
 ![image](https://user-images.githubusercontent.com/10297748/182027711-fe75c50d-edac-44a9-ae4a-025eb2d17ed4.png)

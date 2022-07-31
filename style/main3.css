@@ -131,3 +131,24 @@ input[type="edit"]:hover {
 i {
 	font-size:12px;
 }
+
+.cellDel {
+	width:20px;
+
+}
+
+.cellDel img {
+	height:20px;
+	width:20px;
+    border: none;
+
+}
+
+h1 a {
+    color: #80adf8;
+	background-color: #fff;
+}
+h1 a:hover {
+    color: #4487f5;
+	background-color: #fff;
+}

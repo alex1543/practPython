@@ -2,15 +2,14 @@
 Это - исходники учебного web-сайта на Python. Пример web-сайта, как можно редактировать строки в таблице из базы данных MySQL с применением языка Python.
 Главная страница web-сайта представлена далее, которая представляет собой список из колонок и строк для редактирования:
 
-![scr1](https://user-images.githubusercontent.com/10297748/184474152-c0211202-ca8b-4194-9a3f-010b499bb135.png)
-
+![image](https://user-images.githubusercontent.com/10297748/182027613-77cd33d7-885b-4470-846a-df76831ebc27.png)
 
 Для создания базы данных необходимо воспользоваться скриптом test.sql из каталога [practUpdate](https://github.com/alex1543/practUpdate)
 или программой [ExLzFmySQL](https://github.com/alex1543/ExLzFmySQL) на Lazarus.
 
 При нажатии на ячейку в строке, предлагается редактировать три параметра:
 
-![scr2](https://user-images.githubusercontent.com/10297748/184474156-aba1c1a1-1dce-4cd6-b574-60eabd133d90.png)
+![image](https://user-images.githubusercontent.com/10297748/182027711-fe75c50d-edac-44a9-ae4a-025eb2d17ed4.png)
 
 
 Web-сайт гаранированно работает в XAMPP Version 7.4.27 с подключенным Python 3.8.

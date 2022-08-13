@@ -15,13 +15,13 @@
 
 Web-сайт гаранированно работает в XAMPP Version 7.4.27 с подключенным Python 3.8.
 
-Для подключения интерпретатора Python к web-серверу Apache, необходимо найти секцию <IfModule mime_module> в файле httpd.conf и добавить две строки:
+Для подключения интерпретатора Python к web-серверу Apache, необходимо найти секцию < IfModule mime_module > в файле httpd.conf и добавить две строки:
   
   AddHandler cgi-script .py
   
   ScriptInterpreterSource Registry-Strict
   
-Найти блок <IfModule dir_module> ... </IfModule> и добавить названия файлов: index.py, default.py, home.py
+Найти блок < IfModule dir_modul e> ... < /IfModule > и добавить названия файлов: index.py, default.py, home.py
   
 Затем исправить первую строку в файле index.py из каталога с исходниками на путь к программе Python. Например, так:
   

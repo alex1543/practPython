@@ -1,4 +1,4 @@
--- The file for creating the table for the case study, called practPerl
+-- The file for creating the table for the case study, called practPython or/and practPerl
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 START TRANSACTION;

@@ -21,6 +21,8 @@ Web-сайт гаранированно работает в XAMPP Version 7.4.27
   
   ScriptInterpreterSource Registry-Strict
   
+Найти блок <IfModule dir_module> ... </IfModule> и добавить названия файлов: index.py, default.py, home.py
+  
 Затем исправить первую строку в файле index.py из каталога с исходниками на путь к программе Python. Например, так:
   
   #! C:/Users/днс/AppData/Local/Programs/Python/Python38/python.exe
